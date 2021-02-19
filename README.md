@@ -1,4 +1,4 @@
-# calendar-month-ui
+# calendar month UI
 
 Link to project: https://cal-month-ui-project.netlify.app
 
